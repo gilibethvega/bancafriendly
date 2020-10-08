@@ -18,7 +18,13 @@ h1 {
 .display-mobile {
   font-size: 40px;
 }
-.border-top {
+.border-top, .border-bottom {
   border-width:3px !important;
   margin: 0px auto;
+}
+#superpowers {
+  font-family: 'Acme', sans-serif;
+}
+  i {
+  color:  #344b7b;
 }
