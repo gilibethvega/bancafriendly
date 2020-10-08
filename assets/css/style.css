@@ -1,0 +1,16 @@
+body {
+  font-family: 'Acme', sans-serif;
+  font-family: 'Marvel', sans-serif;
+}
+.bg-primary {
+  background-color: #344b7b!important;
+}
+.hero {
+  background-image: url('../img/bg_hero_bf.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  padding-top: 12rem!important;
+}
