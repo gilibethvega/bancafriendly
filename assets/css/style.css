@@ -22,9 +22,12 @@ h1 {
   border-width:3px !important;
   margin: 0px auto;
 }
-#superpowers {
+#superpowers, h2 {
   font-family: 'Acme', sans-serif;
 }
-  i {
+#superpowers i{
   color:  #344b7b;
+}
+#works {
+  background-color: #344b7b;
 }
