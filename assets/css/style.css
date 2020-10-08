@@ -1,6 +1,7 @@
 body {
   font-family: 'Acme', sans-serif;
   font-family: 'Marvel', sans-serif;
+  font-size: 16px;
 }
 .bg-primary {
   background-color: #344b7b!important;
@@ -13,4 +14,11 @@ body {
 }
 h1 {
   padding-top: 12rem!important;
+}
+.display-mobile {
+  font-size: 40px;
+}
+.border-top {
+  border-width:3px !important;
+  margin: 0px auto;
 }
