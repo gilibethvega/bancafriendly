@@ -43,6 +43,9 @@ footer a{
   .w-50 {
     width: 20%!important;
   }
+  .display-mobile {
+    font-size: 60px;
+  }
 }
 @media (min-width: 576px) {
   .hero {
