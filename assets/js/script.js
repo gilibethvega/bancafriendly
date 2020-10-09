@@ -13,15 +13,7 @@ $(function(){
       });
     }
   });
-<<<<<<< HEAD
 
   $('[data-toggle="popover"]').popover();
 
 });
-=======
-
-  $('[data-toggle="popover"]').popover();
-
-});
-
->>>>>>> master
